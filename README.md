@@ -30,8 +30,4 @@ here we have make this project using html and css lets move to this :-
 12) we want to give the logo as property then we use the display: flex .
 13) here we use the psedu-class property as hover property this apply on header and footer.
 14) wewant to give the homepage to property then we give that background image , backgound-position, backgorund-size.
-  
-16) 
-17) 
-18) 
 
